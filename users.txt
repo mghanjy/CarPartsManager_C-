@@ -1,0 +1,6 @@
+mohammed 123 admin 778383838 1 1
+ali 123 employee 778689459 male 1
+ahmed 123 customer 778989898 male 1
+s 123 customer 789999999 male 1
+ahmmed 123 employee 775454545 male 1
+alia 123 employee 735554568 female 1
